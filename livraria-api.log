@@ -1,0 +1,163 @@
+2022-06-28T01:35:50.934Z[livraria-api]infoPOST /post - {"nome":"Ricardo","email":"ricardoz.s474@gmail.com","senha":12345,"telefone":"11992619614","endereco":"francisco lameu"}
+2022-06-28T02:14:52.986Z[livraria-api]infoPUT /proprietario - {"id":1,"nome":"jose","email":"teste","senha":"123132","telefone":"1111","endereco":"pascoal pais"}
+2022-06-28T03:18:08.943Z[livraria-api]infoGET /cliente}
+2022-06-28T03:46:54.277Z[livraria-api]infoGET /cliente}
+2022-06-28T03:47:46.842Z[livraria-api]infoGET /cliente}
+2022-06-28T04:06:02.828Z[livraria-api]infoGET /cliente}
+2022-06-28T04:06:49.227Z[livraria-api]infoGET /cliente}
+2022-06-28T04:14:42.566Z[livraria-api]infoGET /cliente}
+2022-06-28T04:15:54.355Z[livraria-api]infoGET /cliente}
+2022-06-30T04:53:36.604Z[livraria-api]infoPOST /post - {"nome":"we","email":"234.s474@gmail.com","senha":555,"telefone":"11992619614","endereco":"awewea lameu"}
+2022-07-01T02:51:38.924Z[livraria-api]infoPOST /post - {"nome":"autor1","email":"askjkas@hotmail.com","telefone":1213124214}
+2022-07-01T03:26:06.633Z[livraria-api]infoPOST /post - {"nome":"jaks","valor":4124,"estoque":2,"autor_id":1}
+2022-07-02T03:39:51.724Z[livraria-api]infoGET /cliente}
+2022-07-02T03:40:34.550Z[livraria-api]infoPOST /post - {"nome":"autor2","email":"askjkas@hotmail.com","telefone":1213124214}
+2022-07-02T03:40:41.031Z[livraria-api]infoGET /cliente}
+2022-07-02T03:41:05.953Z[livraria-api]infoGET /cliente}
+2022-07-02T03:46:23.286Z[livraria-api]infoGET /cliente}
+2022-07-02T03:47:51.689Z[livraria-api]infoGET /cliente}
+2022-07-02T03:49:39.227Z[livraria-api]infoGET /cliente}
+2022-07-02T03:55:49.788Z[livraria-api]infoPOST /post - {"nome":"autor2","email":"askjkas@hotmail.com","telefone":1213124214}
+2022-07-02T03:59:23.599Z[livraria-api]infoGET /cliente}
+2022-07-02T03:59:56.868Z[livraria-api]infoGET /cliente}
+2022-07-02T04:04:29.898Z[livraria-api]infoPOST /post - {"nome":"autor4","email":"askjkas@hotmail.com","telefone":1213124214}
+2022-07-02T04:04:38.860Z[livraria-api]infoGET /cliente}
+2022-07-02T04:06:37.539Z[livraria-api]infoGET /cliente}
+2022-07-02T04:07:30.813Z[livraria-api]infoPOST /post - {"nome":"afasfas","valor":12331,"estoque":2,"autor_id":1}
+2022-07-02T04:08:45.125Z[livraria-api]infoGET /livros}
+2022-07-02T04:09:04.392Z[livraria-api]infoGET /livros}
+2022-07-02T04:19:27.955Z[livraria-api]infoPUT /proprietario - {"id_livro":8,"valor":5}
+2022-07-02T04:19:51.617Z[livraria-api]infoGET /livros}
+2022-07-02T04:21:55.477Z[livraria-api]infoPUT /proprietario - {"id_livro":8,"valor":5}
+2022-07-02T04:22:46.074Z[livraria-api]infoPUT /proprietario - {"id_livro":8,"valor":5}
+2022-07-02T04:22:59.714Z[livraria-api]infoPUT /proprietario - {"id_livro":8,"valor":4}
+2022-07-02T04:30:18.646Z[livraria-api]infoGET /livros}
+2022-07-02T04:48:37.073Z[livraria-api]infoGET /livros}
+2022-07-02T04:49:30.837Z[livraria-api]infoGET /livros}
+2022-07-02T04:50:00.509Z[livraria-api]infoPOST /post - {"nome":"afasadasssfas","valor":123,"estoque":2,"autor_id":4}
+2022-07-02T04:50:11.714Z[livraria-api]infoGET /livros}
+2022-07-02T05:17:39.580Z[livraria-api]infoGET /livros}
+2022-07-03T02:58:32.355Z[livraria-api]infoGET /livros}
+2022-07-03T02:59:14.302Z[livraria-api]infoGET /livros}
+2022-07-03T03:47:07.824Z[livraria-api]infoPOST /livros/info}undefined
+2022-07-03T03:55:21.124Z[livraria-api]infoPUT /livros/info}undefined
+2022-07-03T03:55:43.983Z[livraria-api]infoPUT /livros/info}undefined
+2022-07-03T03:56:25.383Z[livraria-api]infoPUT /livros/info}undefined
+2022-07-03T03:56:41.477Z[livraria-api]infoPUT /livros/info}undefined
+2022-07-03T03:57:28.577Z[livraria-api]infoPUT /livros/info}undefined
+2022-07-03T04:04:30.974Z[livraria-api]infoDELETE /livros/info}undefined
+2022-07-03T04:04:38.420Z[livraria-api]infoDELETE /livros/info}undefined
+2022-07-03T04:05:43.903Z[livraria-api]infoDELETE /livros/info}undefined
+2022-07-03T04:06:58.458Z[livraria-api]infoDELETE /livros/info}undefined
+2022-07-03T04:21:16.653Z[livraria-api]infoPOST /livros/info}undefined
+2022-07-03T04:32:41.065Z[livraria-api]infoPOST /livros/info}undefined
+2022-07-03T04:36:35.205Z[livraria-api]infoPOST /livros/info}undefined
+2022-07-03T05:18:59.534Z[livraria-api]infoPOST /livros/info}undefined
+2022-07-03T05:24:45.869Z[livraria-api]infoDELETE /livros/info}undefined
+2022-07-03T05:52:23.353Z[livraria-api]infoGET /cliente}
+2022-07-03T05:53:34.021Z[livraria-api]infoGET /cliente}
+2022-07-03T05:53:42.002Z[livraria-api]infoGET /livros}
+2022-07-03T06:43:39.584Z[livraria-api]infoGET /cliente}
+2022-07-03T18:57:28.531Z[livraria-api]infoGET /livros}
+2022-07-03T18:57:32.947Z[livraria-api]infoGET /livros}
+2022-07-03T18:58:27.178Z[livraria-api]infoPOST /post - {"data":"03-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:01:35.676Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:03:11.580Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":4}
+2022-07-03T19:05:28.601Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:09:08.642Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:18:01.479Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:20:42.390Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:35:31.742Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":8,"valor":"4"}
+2022-07-03T19:40:21.807Z[livraria-api]infoPUT /proprietario - {"livros_id":8,"valor":5}
+2022-07-03T19:51:09.250Z[livraria-api]infoPOST /post - {"nome":"SAFASFASF","valor":4124,"estoque":10,"autor_id":1}
+2022-07-03T19:51:37.017Z[livraria-api]infoPUT /proprietario - {"livro_id":1,"valor":5}
+2022-07-03T20:00:54.440Z[livraria-api]infoPOST /post - {"nome":"SAFASFASF","valor":4124,"estoque":10,"autor_id":1}
+2022-07-03T20:01:10.009Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":1,"valor":"4124"}
+2022-07-03T20:04:25.180Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":1,"valor":"4124"}
+2022-07-03T20:05:47.735Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":1,"valor":"4124"}
+2022-07-03T20:21:40.934Z[livraria-api]infoGET /Venda}
+2022-07-03T20:24:52.922Z[livraria-api]infoGET /Venda}
+2022-07-03T20:33:45.608Z[livraria-api]infoGET /Venda}
+2022-07-03T20:35:53.658Z[livraria-api]infoGET /Venda}
+2022-07-03T20:39:23.643Z[livraria-api]infoGET /Venda}
+2022-07-03T21:18:43.124Z[livraria-api]infoGET /Venda}
+2022-07-03T21:19:35.019Z[livraria-api]infoGET /cliente}
+2022-07-03T21:20:00.142Z[livraria-api]infoPOST /post - {"nome":"zsa","valor":444,"estoque":12,"autor_id":4}
+2022-07-03T21:20:08.765Z[livraria-api]infoGET /livros}
+2022-07-03T21:21:15.689Z[livraria-api]infoGET /Venda}
+2022-07-03T21:22:04.253Z[livraria-api]infoGET /Venda}
+2022-07-03T21:22:04.288Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":2,"valor":"444"}
+2022-07-03T21:22:19.957Z[livraria-api]infoPOST /post - {"data":"05-07-2022","cliente_id":1,"livro_id":2,"valor":"444"}
+2022-07-03T21:22:28.420Z[livraria-api]infoGET /Venda}
+2022-07-03T21:22:36.299Z[livraria-api]infoGET /Venda}
+2022-07-03T21:24:27.940Z[livraria-api]infoGET /Venda}
+2022-07-03T21:24:37.363Z[livraria-api]infoGET /Venda}
+2022-07-03T21:25:24.664Z[livraria-api]infoGET /Venda}
+2022-07-03T21:42:25.786Z[livraria-api]infoGET /Venda}
+2022-07-05T02:59:23.353Z[livraria-api]infoGET /livros}
+2022-07-05T03:08:23.007Z[livraria-api]infoGET /livros}
+2022-07-08T03:08:27.060Z[livraria-api]infoGET /livros}
+2022-07-08T03:08:56.562Z[livraria-api]infoGET /livros}
+2022-07-08T03:09:46.529Z[livraria-api]infoGET /livros}
+2022-07-08T03:10:13.425Z[livraria-api]infoGET /livros}
+2022-07-10T19:36:31.557Z[livraria-api]infoGET /livros}
+2022-07-10T19:36:53.534Z[livraria-api]infoGET /cliente}
+2022-07-10T19:37:17.018Z[livraria-api]infoGET /cliente}
+2022-07-10T19:37:22.587Z[livraria-api]infoGET /livros}
+2022-07-10T19:50:27.494Z[livraria-api]infoGET /livros}
+2022-07-10T19:55:13.325Z[livraria-api]infoGET /livros}
+2022-07-10T22:04:24.851Z[livraria-api]infoGET /livros}
+2022-07-10T22:06:27.121Z[livraria-api]infoGET /livros}
+2022-07-10T22:19:36.153Z[livraria-api]infoGET /livros}
+2022-07-10T22:19:48.573Z[livraria-api]infoGET /livros}
+2022-07-10T22:20:13.146Z[livraria-api]infoGET /livros}
+2022-07-10T22:20:34.131Z[livraria-api]infoGET /livros}
+2022-07-10T22:21:53.542Z[livraria-api]infoGET /livros}
+2022-07-10T22:25:14.772Z[livraria-api]infoGET /livros}
+2022-07-10T22:29:47.481Z[livraria-api]infoGET /livros}
+2022-07-10T22:32:50.355Z[livraria-api]infoGET /livros}
+2022-07-10T22:33:11.051Z[livraria-api]infoGET /livros}
+2022-07-10T22:33:58.799Z[livraria-api]infoGET /livros}
+2022-07-10T22:38:31.634Z[livraria-api]infoGET /livros}
+2022-07-10T22:39:15.345Z[livraria-api]infoGET /livros}
+2022-07-10T22:39:57.953Z[livraria-api]infoGET /livros}
+2022-07-10T22:41:43.847Z[livraria-api]infoGET /livros}
+2022-07-10T22:42:58.156Z[livraria-api]infoGET /livros}
+2022-07-10T22:44:55.700Z[livraria-api]infoGET /livros}
+2022-07-10T22:46:54.424Z[livraria-api]infoGET /livros}
+2022-07-10T22:50:23.105Z[livraria-api]infoGET /livros}
+2022-07-10T22:51:57.662Z[livraria-api]infoGET /livros}
+2022-07-10T23:07:33.017Z[livraria-api]infoGET /livros}
+2022-07-10T23:09:52.127Z[livraria-api]infoGET /livros}
+2022-07-10T23:12:15.441Z[livraria-api]infoGET /livros}
+2022-07-10T23:12:26.843Z[livraria-api]infoGET /livros}
+2022-07-10T23:14:07.120Z[livraria-api]infoGET /livros}
+2022-07-10T23:19:03.188Z[livraria-api]infoGET /Venda}
+2022-07-10T23:19:15.570Z[livraria-api]infoGET /Venda}
+2022-07-21T03:39:33.924Z[livraria-api]infoGET /livros}
+2022-07-30T04:31:20.796Z[livraria-api]infoGET /livros}
+2022-07-30T04:39:15.160Z[livraria-api]infoGET /livros}
+2022-07-30T04:48:20.606Z[livraria-api]infoGET /livros}
+2022-07-30T04:48:43.762Z[livraria-api]infoGET /livros}
+2022-07-30T04:58:51.448Z[livraria-api]infoGET /livros}
+2022-08-04T03:11:46.993Z[livraria-api]infoGET /livros}
+2022-08-04T03:25:47.794Z[livraria-api]infoGET /livros}
+2022-08-05T01:53:48.935Z[livraria-api]infoGET /livros}
+2022-08-05T01:54:32.695Z[livraria-api]infoGET /livros}
+2022-08-05T01:58:57.251Z[livraria-api]infoGET /livros}
+2022-08-05T02:57:13.658Z[livraria-api]infoGET /cliente}
+2022-08-05T03:02:01.040Z[livraria-api]infoGET /cliente}
+2022-08-06T18:26:02.603Z[livraria-api]infoGET /livros}
+2022-08-06T18:30:15.766Z[livraria-api]infoGET /livros}
+2022-08-06T18:38:33.936Z[livraria-api]infoGET /livros}
+2022-08-06T18:40:02.670Z[livraria-api]infoGET /livros}
+2022-08-06T19:15:09.740Z[livraria-api]infoGET /livros}
+2022-08-06T19:20:04.903Z[livraria-api]infoGET /livros}
+2022-08-06T19:23:51.075Z[livraria-api]infoGET /livros}
+2022-08-06T19:26:53.952Z[livraria-api]infoGET /livros}
+2022-08-06T19:27:08.065Z[livraria-api]infoGET /livros}
+2022-08-06T19:32:12.015Z[livraria-api]infoGET /Venda}
+2022-08-06T19:47:20.160Z[livraria-api]infoGET /Venda}
+2022-08-06T19:47:32.887Z[livraria-api]infoGET /Venda}
+2022-08-06T19:47:35.495Z[livraria-api]infoGET /Venda}
+2022-08-06T19:47:40.889Z[livraria-api]infoGET /Venda}
